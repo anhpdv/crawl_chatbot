@@ -1,0 +1,14 @@
+setup.py
+chatbot_suckhoe/__init__.py
+chatbot_suckhoe/items.py
+chatbot_suckhoe/middlewares.py
+chatbot_suckhoe/pipelines.py
+chatbot_suckhoe/settings.py
+chatbot_suckhoe/spiders/__init__.py
+chatbot_suckhoe/spiders/vinmec_benh.py
+chatbot_suckhoe/spiders/vinmec_hoi_dap.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt

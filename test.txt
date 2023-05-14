@@ -1,0 +1,5 @@
+## Đường lây truyền bệnh Áp xe
+
+Áp xe có thể được lây truyền do tác nhân gây bệnh lây lan từ người bệnh sang
+người lành. Đường lây truyền cụ thể thay đổi tùy theo từng nguyên nhân cụ thể.
+
